@@ -6,6 +6,13 @@
 
 This Excel projects provides a comprehensive overview of the purchase performance for an imaginary Bike store over a given period of time. The Bike sales dataset was organised and analyzed to answer crucial questions and gain insights to make strategc data driven decisions. This project includes organizing and analyzing purchase transactions, customer information, and product details of these datasets.
 
+This report contains 3 pages:
+
+Raw dataset
+Worksheet
+Pivot table
+Dashboard
+
 *__Disclaimer__* : **_All dataset or report do no reprsent any Company, Institution or Country but its justa dummy dataset used to demonstrate capabilities of Excel._**
 
 ## Problem Statement
@@ -20,3 +27,5 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 Filter                     |  Purchase
 :------------------------: |  ----------------------------:
 ![](Slicer.filter.png)   : | ![](Bike.Purchase.png) _:
+
+
