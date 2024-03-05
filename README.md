@@ -33,6 +33,6 @@ Filter                     |  Purchase
 - Average income by purchase
 ![](Average_income_by_purchase.png):
    
-The data shows that male customers who bought bikes have a higher average income ($60,124) than female customers who made similar purchases, with an average income of $55,774.
+This chart shows that male customers who bought bikes have a higher average income ($60,124) than female customers who made similar purchases, with an average income of $55,774.
 
 
