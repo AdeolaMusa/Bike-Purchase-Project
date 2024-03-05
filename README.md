@@ -8,10 +8,11 @@ This Excel projects provides a comprehensive overview of the purchase performanc
 
 This report contains 3 pages:
 
-Raw dataset
-Worksheet
-Pivot table
-Dashboard
+You can interact with the project [here](https://1drv.ms/x/c/b8e8fdd319a907e1/Ebg3beouaVxHuwkvlOzeNTwBkKoIOB3kNqk36A8UMPK-jw?e=n9lQ7j&nav=MTVfe0QyMTdDMzlDLTZBMkEtNEE1QS04MUQxLUY3N0EwM0E1ODVFQ30)
+- Raw dataset
+- Worksheet
+- Pivot table
+- Dashboard
 
 *__Disclaimer__* : **_All dataset or report do no reprsent any Company, Institution or Country but its justa dummy dataset used to demonstrate capabilities of Excel._**
 
@@ -27,5 +28,8 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 Filter                     |  Purchase
 :------------------------: |  ----------------------------:
 ![](Slicer.filter.png)   : | ![](Bike.Purchase.png) _:
+
+## Analysis
+
 
 
