@@ -1,3 +1,3 @@
 # Bike-Purchase-Project
 
-![](Intro.bike.png)
+![](Intro_bike.png)
