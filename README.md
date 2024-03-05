@@ -19,4 +19,4 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 
 Filter                     |  Purchase
 :------------------------: |  ----------------------------:
-![](Slicer.filter.png) ____________________: | ![](Bike.Purchase.png)  ____________________________:
+![](Slicer.filter.png)   : | ![](Bike.Purchase.png) _:
