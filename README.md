@@ -40,18 +40,35 @@ This chart shows that the male customers who bought bikes have a higher average 
 
 ![](Customer_commute.png)
   
-This chart shows that most bike customers (200) commute between o-1 mile daily. 
+This chart shows that most bike customers (200) commute between o-1 mile daily with the lowest at more than 10miles. 
 
 - Sales by region
   
 ![](bike_sales_by_region.png)
   
- This chart shows that North America has the highest no of customers (508), followed by Europe (300) and the pacific (196) respectively.
+ This chart shows that North America has the highest no of customers (508), this implies that the highest income is enerated from this region, followed by Europe (300) and the pacific (196) respectively.
 
 - sales by Age bracket
   
 ![](sales_by_age_bracket.png)
 
 This chart shows that the Age bracket of the stores customers are middle aged (>31years), followed by the old (>55years) and the young (<31years) respectively. 
+
+## Recommendation
+- Diversifying the product selection to include bikes that appeal more to female customers is a great strategy for wider market
+- monitor sales performance and customer feedback in Europe and the Pacific to identify areas for improvement and fine-tune strategies accordingly
+
+ ## conclusion
+ 
+or making accurate data-driven decisions, datasets from previous years should be analyzed and results compared with current data to identify trends, patterns, and changes over time.
+
+## Conclusion
+
+For making accurate data-driven decisions, datasets from previous years should be analyzed and results compared with current data to identify trends, patterns, and changes over time.
+
+
+
+
+
 
 
