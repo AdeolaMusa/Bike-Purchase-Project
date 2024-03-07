@@ -27,20 +27,20 @@ I used Power Query to clean and transform the data while using Power Pivot to an
 
 Filter                     |  Purchase
 :------------------------: |  ----------------------------:
-![](Slicer.filter.png)   : | ![](Bike.Purchase.png) _:
+![](Slicer.filter.png)   : | ![](sales_charts.png) _:
 
 ## Analysis
 - Average income by purchase
-- 
-![]():
+
+![](Income_by_purchase.png):
    
 This chart shows that the male customers who bought bikes have a higher average income ($60,124) than female customers who made similar purchases, with an average income of $55,774.
 
 - Customers Commute
 
-![](customers.commute.png)
+![](Customer_commute.png)
   
-  This chart shows that most bike customers (200) commute between o-1 mile daily. 
+This chart shows that most bike customers (200) commute between o-1 mile daily. 
 
 - Sales by region
   
