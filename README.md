@@ -1,10 +1,10 @@
-# Bike-Purchase-Project
+# Goodride Sales Analysis
 
 ![](Intro_bike.png)
 
 ## Introduction
 
-This Excel projects provides a comprehensive overview of the purchase performance for an imaginary Bike store over a given period of time. The Bike sales dataset was organised and analyzed to answer crucial questions and gain insights to make strategc data driven decisions. This project includes organizing and analyzing purchase transactions, customer information, and product details of these datasets.
+This Excel projects provides a comprehensive overview of the purchase performance for an imaginary Bike store called **Goodride**, over a given period of time. The Bike sales dataset was organised and analyzed to answer crucial questions and gain insights to make strategc data driven decisions. This project includes organizing and analyzing purchase transactions, customer information, and product details of these datasets.
 
 This report contains 3 pages:
 
