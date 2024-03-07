@@ -31,20 +31,27 @@ Filter                     |  Purchase
 
 ## Analysis
 - Average income by purchase
-![](Average_income_by_purchase.png):
+- 
+![]():
    
 This chart shows that the male customers who bought bikes have a higher average income ($60,124) than female customers who made similar purchases, with an average income of $55,774.
 
 - Customers Commute
-  ![](customers.commute.png)
+
+![](customers.commute.png)
+  
   This chart shows that most bike customers (200) commute between o-1 mile daily. 
 
 - Sales by region
-  ![](bike_sales_by_region.png)
+  
+![](bike_sales_by_region.png)
+  
  This chart shows that North America has the highest no of customers (508), followed by Europe (300) and the pacific (196) respectively.
 
 - sales by Age bracket
+  
 ![](sales_by_age_bracket.png)
+
 This chart shows that the Age bracket of the stores customers are middle aged (>31years), followed by the old (>55years) and the young (<31years) respectively. 
 
 
